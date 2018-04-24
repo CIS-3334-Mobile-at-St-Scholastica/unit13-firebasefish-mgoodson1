@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "617028680933",
+    "firebase_url": "https://fir-fish-mgoodson1.firebaseio.com",
+    "project_id": "fir-fish-mgoodson1",
+    "storage_bucket": "fir-fish-mgoodson1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617028680933:android:a1695d7ecc99ba5e",
+        "android_client_info": {
+          "package_name": "css.cis3334.fishlocatorfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617028680933-og3e1uhpn5ehfdfogenp8aqtd7e59ibb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA7Ak_H5YeoB2S4OerQ1tkmOI1ypXDUFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "617028680933",
-    "firebase_url": "https://fir-fish-mgoodson1.firebaseio.com",
-    "project_id": "fir-fish-mgoodson1",
-    "storage_bucket": "fir-fish-mgoodson1.appspot.com"
+    "project_number": "328158827319",
+    "firebase_url": "https://friendly-chat-start2.firebaseio.com",
+    "project_id": "friendly-chat-start2",
+    "storage_bucket": "friendly-chat-start2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:617028680933:android:a1695d7ecc99ba5e",
+        "mobilesdk_app_id": "1:328158827319:android:b5d75907de594a2d",
         "android_client_info": {
-          "package_name": "css.cis3334.fishlocatorfirebase"
+          "package_name": "com.google.firebase.codelab.friendlychat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "617028680933-og3e1uhpn5ehfdfogenp8aqtd7e59ibb.apps.googleusercontent.com",
+          "client_id": "328158827319-cednpf465a2970s6dl58jqq5r3j3o297.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "c82a9cf302738ac0d6b352c576281ea545d35403"
+          }
+        },
+        {
+          "client_id": "328158827319-fmqu4b1r9ik3qn6t15d4cmc201i4t8bl.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBA7Ak_H5YeoB2S4OerQ1tkmOI1ypXDUFI"
+          "current_key": "AIzaSyAEdSlpSHsAeUorzYnbbycsIS4Wbv_5Z2k"
         }
       ],
       "services": {
@@ -29,8 +37,57 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328158827319-fmqu4b1r9ik3qn6t15d4cmc201i4t8bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328158827319:android:a1695d7ecc99ba5e",
+        "android_client_info": {
+          "package_name": "css.cis3334.fishlocatorfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328158827319-c91k8an77au7gamh86evjcqqpv26l6nr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "css.cis3334.fishlocatorfirebase",
+            "certificate_hash": "c82a9cf302738ac0d6b352c576281ea545d35403"
+          }
+        },
+        {
+          "client_id": "328158827319-fmqu4b1r9ik3qn6t15d4cmc201i4t8bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEdSlpSHsAeUorzYnbbycsIS4Wbv_5Z2k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328158827319-fmqu4b1r9ik3qn6t15d4cmc201i4t8bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
