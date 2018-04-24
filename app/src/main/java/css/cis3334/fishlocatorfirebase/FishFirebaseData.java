@@ -2,9 +2,12 @@ package css.cis3334.fishlocatorfirebase;
 
 import android.util.Log;
 
+import com.google.firebase.auth.FirebaseAuthException;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,9 +19,11 @@ import java.util.List;
 public class FishFirebaseData {
 
     public static final String FishDataTag = "Fish Data";
+    private FirebaseAuth mAuth;
 
     public DatabaseReference open()  {
         // Get an instance of the database and a reference to the fish data in it
+        mAuth = FirebaseAuth.getInstance();
 
     }
 
